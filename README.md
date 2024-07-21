@@ -1,6 +1,6 @@
 # Student Registration Platform
 
-This project is a Student Registration Platform built using Node.js, Express.js, EJS, and AWS services such as DynamoDB, API Gateway, and Lambda functions. The platform allows users to add, view, update, delete, and search student entries.
+This project is a Simple Student Registration Platform built using Node.js, Express.js, EJS, and AWS services such as DynamoDB, API Gateway, and Lambda functions. The platform allows users to add, view, update, delete, and search student entries.
 
 ## Features
 
